@@ -1,6 +1,8 @@
 # power-bi-bank-domain
+
  Tools Used:
 Power BI
+
 📌 Project Overview
 This project focuses on performing end-to-end data analysis in the banking domain, involving customer behavior and engagement insights.Dashboard creation using Power BI.
 
@@ -17,6 +19,8 @@ Engagement Count
 Superannuation & Deposits Trends
 Loyalty Classification Distribution
 Foreign Currency Account Usage by Income Group
+
+
 🎯 Business Insights
 Customers with higher bank deposits often hold multiple account types.
 Risk-weighted customers need monitoring for lending products.

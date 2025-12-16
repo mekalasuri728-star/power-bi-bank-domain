@@ -14,6 +14,7 @@ Banking products (Deposits, Loans, Credit Cards, etc.)
 Income, Loyalty Classification, Risk Weighting
 
 Built interactive dashboards in Power BI to visualize KPIs like:
+
 📊 Sample KPIs & Metrics
 Engagement Count
 Superannuation & Deposits Trends

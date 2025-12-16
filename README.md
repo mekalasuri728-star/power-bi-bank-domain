@@ -9,7 +9,7 @@ This project focuses on performing end-to-end data analysis in the banking domai
 🗃️ Dataset
 Contains anonymized customer data with features like:
 
--Demographics (Age, Gender, Nationality, Occupation)
+1.Demographics (Age, Gender, Nationality, Occupation)
 
 2.Banking products (Deposits, Loans, Credit Cards, etc.)
 
